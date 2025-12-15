@@ -1,4 +1,4 @@
-# Nexa 🤖🔊
+# NEXA-V.1-An-Advanced-AI-Companion 🤖🔊
 
 Nexa is a local AI Romantic assistant built in Python that supports
 **text + voice interaction** and **persistent memory** using JSON.
