@@ -18,7 +18,7 @@ Runs fully from the command line.
 ## Requirements
 - Python 3.9+
 - OpenAI API key
-- ElevenLabs API key (optional)
+- ElevenLabs API key 
 
 ---
 
