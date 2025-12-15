@@ -1,4 +1,7 @@
 openai
-requests
 python-dotenv
+SpeechRecognition
+pyaudio
 elevenlabs
+pygame
+
