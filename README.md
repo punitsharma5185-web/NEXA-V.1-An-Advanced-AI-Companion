@@ -16,15 +16,16 @@ Runs fully from the command line.
 ---
 
 ## Requirements
--python-dotenv
--SpeechRecognition
--pyaudio
--elevenlabs
--pygame
+1.Python 3.9 – 3.11 (recommended)
+2.python-dotenv
+3.SpeechRecognition
+4.pyaudio
+5.elevenlabs
+6.pygame
 
 >>>If pip install pyaudio fails then, 
-use these commands----pip install pipwin
-pipwin install pyaudio
+use these commands----(1)pip install pipwin
+(2)pipwin install pyaudio
 
 
 
