@@ -40,3 +40,11 @@ use these commands----(1)pip install pipwin
 git clone https://github.com/punitsharma5185-web/NEXA-V.1-An-Advanced-AI-Companion
 cd nexa
 pip install -r requirements.txt
+
+pip install openai
+pip install python-dotenv
+pip install SpeechRecognition
+pip inatall pyaudio
+pip install elevenlabs
+pip install pygame
+
