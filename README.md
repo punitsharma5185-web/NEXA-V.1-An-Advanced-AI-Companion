@@ -25,6 +25,6 @@ Runs fully from the command line.
 ## Installation
 
 ```bash
-git clone https://github.com/punitsharma5185-web/nexa
+git clone https://github.com/punitsharma5185-web/NEXA-V.1-An-Advanced-AI-Companion
 cd nexa
 pip install -r requirements.txt
