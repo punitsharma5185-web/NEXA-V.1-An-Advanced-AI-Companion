@@ -16,9 +16,20 @@ Runs fully from the command line.
 ---
 
 ## Requirements
-- Python 3.9+
-- OpenAI API key
-- ElevenLabs API key 
+-python-dotenv
+-SpeechRecognition
+-pyaudio
+-elevenlabs
+-pygame
+
+>>>If pip install pyaudio fails then, 
+use these commands----pip install pipwin
+pipwin install pyaudio
+
+
+
+
+
 
 ---
 
